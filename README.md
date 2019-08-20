@@ -1,4 +1,4 @@
-![SAP](imgs/sap.png) ![Schools](logos.png)
+![SAP](imgs/sap.png) ![Schools](imgs/logos.png)
 # Comparative Study On Time Series Forecasting
 # Master Thesis
 ## Schools : Télécom Paris, Ecole Polytechnique
