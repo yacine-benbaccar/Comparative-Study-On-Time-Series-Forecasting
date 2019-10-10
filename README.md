@@ -1,6 +1,6 @@
 <div>
   <h1>Comparative Study On Time Series Forecasting</h1>
-  <h1>Master Thesis</h1>
+  <h1>Master's Thesis</h1>
   <h2>Schools : Télécom Paris, Ecole Polytechnique</h2>
   <h2>Organization : SAP France</h2>
   <h3>Academic Supervisor : François Roueff, Erwan Le Pennec</h3>
