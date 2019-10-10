@@ -4,7 +4,7 @@
   <h2>Schools : Télécom Paris, Ecole Polytechnique</h2>
   <h2>Organization : SAP France</h2>
   <h3>Academic Supervisor : François Roueff, Erwan Le Pennec</h3>
-  <h3>Profesionnal Supervisor :  Bertrand Lamy, Jacques Doan Huu, Kevin Guimard</h3>
+  <h3>Profesionnal Supervisor :  Bertrand Lamy, Jacques Doan Huu</h3>
 </div>
 
 <p>
